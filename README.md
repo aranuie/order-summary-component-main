@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [My Solution](https://www.frontendmentor.io/solutions/order-summary-card-challenge-with-css-aio97nwTX)
 - Live Site URL: [Live Site](https://aranuie.github.io/order-summary-component-main/)
 
 ## My process
